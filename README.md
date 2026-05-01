@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha Furkan Bolat</h1>
+<h1 align="center">Hi 👋, I'm Taha </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Game+Developer+Student;Unity+%26+C%23+Developer;Building+2D+%26+3D+Games;Always+Learning+New+Things" />
@@ -17,8 +17,7 @@
 
 ## 🧠 Skills
 - Unity Engine 🎮  
-- C# 💻  
-- Git & GitHub 🔧  
+- C# 💻   
 - Basic Java ☕
 
 ---
