@@ -21,31 +21,9 @@
 - Basic Java ☕
 
 ---
-
-## 🕹️ Featured GIF
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>
-
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-🥇 1st place in Game Jam competitions  
-🎮 Developed multiple Unity game prototypes  
-🚀 Actively improving game development skills  
-
----
-
 ## 📫 Contact
-- Email: **tahafurkanbolat27@gmail.com**
+- Email: **tahafurkanbolat@gmail.com**
