@@ -26,4 +26,4 @@
 </p>
 ---
 ## 📫 Contact
-- Email: **tahafurkanbolat@gmail.com**
+Email: **tahafurkanbolat@gmail.com**
