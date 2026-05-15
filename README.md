@@ -17,8 +17,8 @@
 
 ## 🧠 Skills
 - Unity Engine 🎮  
-- C# 💻   
-- Basic Java ☕
+- C# 💻 (Basic)  
+- Java (Beginner)
 
 ---
 <p align="center">
